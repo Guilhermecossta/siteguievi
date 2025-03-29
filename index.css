@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* body{
+    display: flex;
+    height: 100vh;
+} */
+
+.tudo{
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    font-family: Lora, arial;
+}
+
+.titulo{
+    margin-top: 50px;
+    background-color: white;
+    margin: 50px auto 0;
+
+}
+
+.line{
+    width: 100%;
+    /* border-bottom: 1px solid black; */
+    margin: 20px 0 10px;
+    height: 1px;
+    background-color: black;
+}
+
+.img{
+    width: 100%;
+    height: 150px;
+    background-color: darkblue;
+    margin-bottom: 10px;
+    background: url('WhatsApp\ Image\ 2025-03-28\ at\ 23.36.48\ \(2\).jpeg');
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
+}
+
+.img2{
+    width: 100%;
+    height: 190px;
+    margin-bottom: 10px;
+    background: url('WhatsApp\ Image\ 2025-03-28\ at\ 23.36.48\ \(1\).jpeg');
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.datas{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 30px;
+    height: 0px;
+}
+
+.texto{
+    display: flex;
+}
+
+.subimg{
+    background: url('WhatsApp\ Image\ 2025-03-28\ at\ 23.36.48.jpeg');
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+.subimg1{
+    background: url('WhatsApp\ Image\ 2025-03-28\ at\ 23.36.46.jpeg');
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+.subimg2{
+    background: url('WhatsApp\ Image\ 2025-03-28\ at\ 23.36.49.jpeg');
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+.subimg3{
+    background: url('WhatsApp\ Image\ 2025-03-29\ at\ 00.23.47.jpeg');
+    background-position: center;
+    background-size: cover;
+}
+
+.subimg4{
+    background: url('WhatsApp\ Image\ 2025-03-28\ at\ 23.46.37.jpeg');
+    background-position: center;
+    background-size: cover;
+}
+
+.subimg5{
+    background: url('Doja_Cat_in_August_2020.jpg');
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
+}
+
+.subimg6{
+    background: url('OIP.jpg');
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
+}
+
+.subimg7{
+    background: url('WhatsApp\ Image\ 2025-03-29\ at\ 00.23.47\ \(1\).jpeg');
+    background-position: center 150px;
+    background-size: cover;
+}
+
+.subimg9{
+    background: url('estatua-dos-namorados.jpg');
+    background-position: center 150px;
+    background-size: cover;
+    border-radius: 5px;
+}
+
+.subimg, .subimg1, .subimg2, .subimg3, .subimg4, .subimg5, .subimg7, .subimg6, .subimg9{
+    width: 150px;
+    height: 150px;
+    background-color: darkblue;
+    margin: auto;
+}
+
